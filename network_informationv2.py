@@ -1,4 +1,4 @@
-myfile = open("/home/rama/Downloads/EBR.BRN.2", "rt")
+myfile = open("/home/rama/Downloads/your-file", "rt")
 contents = myfile.read()
 
 def hostname():
